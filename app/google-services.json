@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576394796164",
+    "project_id": "karunada-vanya-497bd",
+    "storage_bucket": "karunada-vanya-497bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576394796164:android:f3469791f9b3953f77f6d1",
+        "android_client_info": {
+          "package_name": "com.example.karunadavanya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkHI1XIIVGHtQiv0p0CxrqdY_AJaTgafQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
